@@ -1,5 +1,5 @@
->[!Note] Usage note 
-X_train and X_test should be in folder data/
+> [!NOTE]
+> `X_train` and `X_test` should be in folder `data/`
 
 Here's a rundown of the project from Prof. Claudia Soares's website:
 
