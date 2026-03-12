@@ -1,10 +1,10 @@
+>[!Note] Usage note 
 X_train and X_test should be in folder data/
 
-Here's a rundown of the project from Prof. Claudia Soares's website.
+Here's a rundown of the project from Prof. Claudia Soares's website:
 
 # The Body Problem
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/ae692a93-e5b3-4d13-85b9-0a7a0e4f7b39" />
-
+<img width="1000" height="800" alt="image" src="three-body.gif"/>
 
 ## The Two-Body Problem
 The two-body problem is a mathematical problem of how two bodies move over time, given their mass, current speed, and motion direction, assuming both objects move only by gravity. 
