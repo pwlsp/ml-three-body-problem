@@ -1,5 +1,6 @@
 # ml-three-body-problem
 This repository contains the first project for Machine Learning course at NOVA FCT.
+
 Authors:
 - Weronika Łoś
 - Paweł Spychała
